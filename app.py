@@ -9,7 +9,7 @@ def hello_world():  # put application's code here
 
 
 @app.route('/home')
-def hello_world():  # put application's code here
+def home():  # put application's code here
     return 'Home!'
 
 
